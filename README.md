@@ -1,2 +1,3 @@
 # petaca
-www.asergom.github.io/petaca
+
+https://asergom.github.io/petaca/
